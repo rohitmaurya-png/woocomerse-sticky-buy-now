@@ -1,7 +1,7 @@
 === Simple Sticky Buy Now For WooCommerce ===
-Contributors: geekstech,solbox,sharaz,ateebahamd
-Author URI: https://codecanyon.net/
-Donate link: https://codecanyon.net/
+Contributors: rohit maurya(geek tech)
+Author URI: https://github.com/
+Donate link: https://github.com/
 Tags: sticky Buy Now, woocommerce, stick bar for woocommerce, woocommerce sticky bar, woocommerce upsells,
 Requires at least: 5.0
 Tested up to: 5.9.0
